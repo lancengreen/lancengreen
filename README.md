@@ -8,11 +8,8 @@
   - [Linux Server Configurations + PCI DSS Reqs](https://github.com/lancengreen)
 - <b>Forensic PCI Review: Windows</b>
   - [Windows Server Configurations + PCI DSS Reqs](https://github.com/lancengreen)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Project Video Walkthroughs</h2>
-
 
 
 <h2> 🤳 Connect With Me:</h2>
