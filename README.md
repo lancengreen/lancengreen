@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lance! <br/><a href="https://github.com/lancengreen">IT Security Professional</a>, <a href="https://www.linkedin.com/in/lancenathanielgreen/">Cybersecurity Consultant</a> </a></h1>
+<h1>Hi, I'm Lance! <br/><a href="https://github.com/lancengreen">IT Security Professional</a>, <a href="https://www.linkedin.com/in/lancenathaniel/">Cybersecurity Consultant</a> </a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
